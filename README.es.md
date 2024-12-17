@@ -10,7 +10,7 @@ Dibujar con CSS es sorprendente porque los dibujos resultantes son súper ligero
 
 No clones este repositorio porque usaremos una plantilla diferente.  
 
-Recomendamos abrir el `html boilerplate`, utilizando una herramienta de aprovisionamiento como [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recomendado) o [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternativamente, puedes [clonar el repositorio de GitHub](https://4geeks.com/how-to/github-clone-repository) en tu computadora local utilizando el comando `git clone`.  
+Recomendamos abrir el `html boilerplate`,  utilizando una herramienta de aprovisionamiento como [Codespaces](https://4geeks.com/es/lesson/tutorial-de-github-codespaces) (recomendado) o [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternativamente, puedes [clonar el repositorio de GitHub](https://4geeks.com/es/lesson/como-utilizar-gitpod) en tu computadora local utilizando el comando `git clone`.  
 
 Este es el repositorio que necesitas abrir o clonar:  
 
