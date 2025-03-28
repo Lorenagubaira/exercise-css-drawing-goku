@@ -4,7 +4,7 @@
 
 Dibujar con CSS es sorprendente porque los dibujos resultantes son súper ligeros en peso (casi un 90% menos que sus dibujos PNG o JPG equivalentes).
 
-<onlyfor saas="false" withBanner="false">
+<how-to-start>
   
 ## 🌱  Cómo iniciar este proyecto
 
@@ -20,7 +20,7 @@ $ git clone https://github.com/4GeeksAcademy/html-hello
 
 💡 Importante: Recuerda crear un nuevo repositorio, actualizar el remoto (`git remote set-url origin <tu nueva url>`), y subir el código a tu nuevo repositorio utilizando `add`, `commit` y `push`.  
 
-</onlyfor>
+</how-to-start>
 
 ## Instruciones
 
