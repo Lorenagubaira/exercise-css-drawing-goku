@@ -1,5 +1,8 @@
 {
-	"title" : "CSS Drawing Goku",
+	"title" : {
+		"us": "CSS Drawing Goku",
+		"es": "Dibujando Goku con CSS"
+	},
 	"slug" : "css-drawing-goku",
 	"status": "published",
 	"duration" : 8, 
@@ -9,8 +12,14 @@
 	"technologies": ["css"],
 	"preview": "https://github.com/breatheco-de/exercise-css-drawing-goku/blob/master/preview.gif?raw=true",
 	"difficulty": "hard",
-	"description" : "Use your CSS knowledge to draw Goku using Position and Display properties.",
+	"description" : {
+		"us":"Use your CSS skills to draw Son Goku by manipulating position and display properties. Learn how to build complex visuals with lightweight code—no images needed! This hands-on project shows how powerful and creative CSS can be.",
+		"es":"Usa tus conocimientos de CSS para dibujar a Son Goku utilizando las propiedades position y display. Aprende a crear visuales complejos con código liviano, ¡sin necesidad de imágenes! Este proyecto práctico demuestra el poder creativo de CSS."
+    },
 	"talents": [],
     "autoPlay": false,
-    "projectType": "project"
+    "projectType": "project",
+    "telemetry": {
+	    	"batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=189"
+	  }
 }
